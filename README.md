@@ -11,7 +11,7 @@ The AI Video Translator is a web application designed to translate video content
 - **Video Processing**: Merges translated audio with the original video to provide a seamless viewing experience in the selected language.
 
 ## Technologies Used
-- **Frontend**: HTML, CSS, JavaScript, Bootstrap
+- **Frontend**: HTML, CSS, Bootstrap
 - **Backend**: Python, Flask
 - **AI Models**: OpenAI Whisper, Google Cloud Text-to-Speech
 - **Video Processing**: FFmpeg, MoviePy
