@@ -1,0 +1,53 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*.pyc
+*.pyo
+*.pyd
+
+# Virtual environment
+venv/
+env/
+
+# Installed packages
+*.egg-info/
+*.eggs/
+
+# Distribution / packaging
+build/
+dist/
+*.egg
+*.manifest
+*.spec
+
+# Python cache and logs
+pip-log.txt
+pip-delete-this-directory.txt
+
+# Environment Variables
+.env
+
+# Uploaded files (videos)
+uploads/
+
+# Video output results
+results/
+
+# Static files (CSS, JS)
+static/css/*.css.map
+
+# Ignore IDE-specific files
+.vscode/
+.idea/
+*.sublime-workspace
+*.sublime-project
+
+# Ignore system-specific files
+.DS_Store
+Thumbs.db
+
+# Ignore Python profiler output
+*.prof
+
+# Logs
+*.log
